@@ -1,5 +1,6 @@
 # What-is-your-name
 My first uploaded user input program
+
 import java.util.Scanner;
 
 public class myNewProgram {
